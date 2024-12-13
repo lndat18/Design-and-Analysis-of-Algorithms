@@ -1,0 +1,4 @@
+python -B 52200160_LeNhuDat.py --ActivitySelection
+python -B 52200160_LeNhuDat.py --JobSequencing
+python -B 52200160_LeNhuDat.py --Prim
+python -B 52200160_LeNhuDat.py --kruskal

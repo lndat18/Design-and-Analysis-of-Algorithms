@@ -1,0 +1,4 @@
+python -B 52200160_LeNhuDat.py --Output_LCS
+python -B 52200160_LeNhuDat.py --Warshall
+python -B 52200160_LeNhuDat.py --Floyd
+python -B 52200160_LeNhuDat.py --Floyd_path

@@ -1,0 +1,4 @@
+python -B 52200160_LeNhuDat.py --Binomial
+python -B 52200160_LeNhuDat.py --CoinRow
+python -B 52200160_LeNhuDat.py --changeMaking
+python -B 52200160_LeNhuDat.py --knapsack

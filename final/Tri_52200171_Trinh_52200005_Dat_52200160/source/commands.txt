@@ -1,0 +1,20 @@
+# biên dịch để thực thi giải quyết coin-row
+python -B main.py --coin_row
+
+# biên dịch để thực thi giải quyết maximum-flow
+python -B main.py --maximum_flow --file data/test.txt
+python -B main.py --maximum_flow --file data/test1.txt
+python -B main.py --maximum_flow --file data/test2.txt
+python -B main.py --maximum_flow --file data/test3.txt
+python -B main.py --maximum_flow --file data/test4.txt
+python -B main.py --maximum_flow --file data/test5.txt
+
+# biên dịch để thực thi chuyển đồ thị sang adjacency matrix và tìm s, t
+python -B main.py --adjacency_matrix --file data/test.txt
+python -B main.py --adjacency_matrix --file data/test1.txt
+python -B main.py --adjacency_matrix --file data/test2.txt
+python -B main.py --adjacency_matrix --file data/test3.txt
+
+# biên dịch để thực thi giải quyết bài 2
+python -B main.py --maximum_flow --file data/2a.txt
+python -B main.py --maximum_flow --file data/2b.txt
